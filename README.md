@@ -54,7 +54,7 @@ console.log(event);
 
 ### outputColor is the output event name i have used.
 
-```
+```html
 <app-imgcol (outputColor)="getcolval($event)"></app-imgcol>
 ```
 
