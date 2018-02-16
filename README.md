@@ -5,7 +5,7 @@ Use the image-color-picker right to select a color and get the html color code o
 Also you get the Preview of selected pixel,HEX value and RGBA value. 
 
 <p align="center">
-  <img width="500" height="300" src="https://raw.githubusercontent.com/ShivrajChougule/image-color-picker/master/img/output2.png">
+  <img width="500" height="300" src="https://raw.githubusercontent.com/ShivrajChougule/image-color-picker/master/image-color-picker/img/output2.png">
 </p>
 
 ## To preview demo of image-color-picker project, [Click here](https://stackblitz.com/edit/angular-image-color-picker?embed=1&file=src/app/app.component.html&hideExplorer=1&hideNavigation=1&view=preview)
