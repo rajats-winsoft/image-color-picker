@@ -11,7 +11,7 @@ Also you get the Preview of selected pixel,HEX value and RGBA value.
 ## To preview demo of image-color-picker project, [Click here](https://stackblitz.com/edit/angular-image-color-picker?embed=1&file=src/app/app.component.html&hideExplorer=1&hideNavigation=1&view=preview)
 
 ## Using the complete angular project
-Download the image-color-picker folder and install the required packages and run the application. All the required components are imported to the project.
+Download the image-color-picker folder and install the required packages and run the application.
 
 ### Installing
 
