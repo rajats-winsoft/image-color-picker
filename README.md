@@ -1,6 +1,6 @@
 # Image Color Picker Using Angular
 
-image-color-picker is a simple component for picking the specific color from image.
+Image-color-picker is a simple component for picking the specific color from image.
 Use the image-color-picker to select a color and get the html color code of selected pixel. 
 Also you get the Preview of selected pixel,HEX value and RGBA value. 
 
